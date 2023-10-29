@@ -24,8 +24,10 @@ public class Enteros {
 		final int variableConstante = 50;
 		
 		
+		// Tipo Short
 		short numeroShort = 122;
 		
+		// Tipo Long
 		long numeroLargo = 1234567899;
 		
 		
